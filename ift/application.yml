@@ -1,2 +1,5 @@
 hello:
   true
+
+bye:
+  false
